@@ -1,5 +1,0 @@
-/Users/qmha/projects/dotnet/helloworld/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/qmha/projects/dotnet/helloworld/bin/Debug/helloworld.exe.mdb
-/Users/qmha/projects/dotnet/helloworld/bin/Debug/helloworld.exe
-/Users/qmha/projects/dotnet/helloworld/obj/x86/Debug/helloworld.exe
-/Users/qmha/projects/dotnet/helloworld/obj/x86/Debug/helloworld.exe.mdb

@@ -181,6 +181,7 @@ namespace falling_rocks
 					if (objectOne.y == userDwarf.y && (objectOne.x == userDwarf.x || objectOne.x == (userDwarf.x + 1) || objectOne.x == (userDwarf.x + 2)))
 					{
 						livesCount--;
+						// As the dwarf hits a rock, the score is downgrade. You can change it!
 						score-=100;
 						hit = true;
 						if (livesCount <= 0)
@@ -194,6 +195,7 @@ namespace falling_rocks
 					if (objectOne.y < Console.WindowHeight)
 					{
 						newList.Add(objectOne);
+						// The score is increased, you can change it!
 						score++;
 					}
 
